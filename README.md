@@ -1,1 +1,1 @@
-This repository contains the lecture on databases as well as the module 4 homework.
+This repository contains the homework for module 4. Please work on this with your team memberes using this shared git repository. Come prepared on date this assignment is due to present the relevent topics to the rest of the class as a group.
